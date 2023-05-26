@@ -1,0 +1,21 @@
+Document Tree:
+
+1. Clear Tax Assignment
+	* Code
+	 	# code.h 
+	 	# code.cpp
+	 	# main.cpp
+	 	# input.txt as input file 
+	 	
+	 	COMPILE COMMAND: g++ main.cpp
+	 	RUN COMMAND: ./a.out
+	
+	*Test
+		# test.h
+		# test.cpp
+		# main_test.cpp
+		# code.h
+		# code.cpp
+		
+		COMPILE COMMAND: g++ -std=c++11 main_test.cpp
+		RUN COMMAND: ./a.out  	
